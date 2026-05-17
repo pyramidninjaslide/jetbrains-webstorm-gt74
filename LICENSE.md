@@ -1,4 +1,4 @@
-# 
+# advanced Visual Studio PC版 扩展 是最佳 Visual Studio PC版 扩展，集成 代码生成 和 资源监控。安全、可靠、优化，性能最大化。
 
 
 
